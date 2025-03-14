@@ -1,1 +1,3 @@
 # Analise_Depreciacao_de_Carros
+
+Neste projeto, analisei em phyton a depreciação de veículos ao longo dos anos, usando dados da Tabela Fipe. Selecionei modelos variados para comparar padrões diferentes de desvalorização no mercado. Utilizei pandas para tratar os dados, removendo espaços extras e garantindo que os valores de ano fossem numéricos. Depois, filtrei os modelos escolhidos e gerei gráficos para visualizar como cada um perde valor ao longo do tempo. Se tivesse mais tempo, aplicaria Machine Learning para prever o valor futuro dos veículos considerando múltiplos fatores, como quilometragem e demanda no mercado.
